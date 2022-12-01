@@ -1,0 +1,222 @@
+{
+    "PurchaseOrders": {
+        "PurchaseOrder": [
+            {
+                "Address": [
+                    {
+                        "Name": "Ellen Adams",
+                        "Street": "123 Maple Street",
+                        "City": "Mill Valley",
+                        "State": "CA",
+                        "Zip": "10999",
+                        "Country": "USA",
+                        "_Type": "Shipping"
+                    },
+                    {
+                        "Name": "Tai Yee",
+                        "Street": "8 Oak Avenue",
+                        "City": "Old Town",
+                        "State": "PA",
+                        "Zip": "95819",
+                        "Country": "USA",
+                        "_Type": "Billing"
+                    }
+                ],
+                "DeliveryNotes": "Please leave packages in shed by driveway.",
+                "Items": {
+                    "Item": [
+                        {
+                            "ProductName": "Lawnmower",
+                            "Quantity": "1",
+                            "USPrice": "148.95",
+                            "Comment": "Confirm this is electric",
+                            "_PartNumber": "872-AA"
+                        },
+                        {
+                            "ProductName": "Baby Monitor",
+                            "Quantity": "2",
+                            "USPrice": "39.98",
+                            "ShipDate": "2023-05-21",
+                            "_PartNumber": "926-AA"
+                        }
+                    ]
+                },
+                "_PurchaseOrderNumber": "99503",
+                "_OrderDate": "2023-10-20"
+            },
+            {
+                "Address": [
+                    {
+                        "Name": "Cristian Osorio",
+                        "Street": "456 Main Street",
+                        "City": "Buffalo",
+                        "State": "NY",
+                        "Zip": "98112",
+                        "Country": "USA",
+                        "_Type": "Shipping"
+                    },
+                    {
+                        "Name": "Cristian Osorio",
+                        "Street": "456 Main Street",
+                        "City": "Buffalo",
+                        "State": "NY",
+                        "Zip": "98112",
+                        "Country": "USA",
+                        "_Type": "Billing"
+                    }
+                ],
+                "DeliveryNotes": "Please notify by email before shipping.",
+                "Items": {
+                    "Item": {
+                        "ProductName": "Power Supply",
+                        "Quantity": "1",
+                        "USPrice": "45.99",
+                        "_PartNumber": "456-NM"
+                    }
+                },
+                "_PurchaseOrderNumber": "99505",
+                "_OrderDate": "2023-10-22"
+            },
+            {
+                "Address": [
+                    {
+                        "Name": "Jessica Arnold",
+                        "Street": "4055 Madison Ave",
+                        "City": "Seattle",
+                        "State": "WA",
+                        "Zip": "98112",
+                        "Country": "USA",
+                        "_Type": "Shipping"
+                    },
+                    {
+                        "Name": "Jessica Arnold",
+                        "Street": "4055 Madison Ave",
+                        "City": "Buffalo",
+                        "State": "NY",
+                        "Zip": "98112",
+                        "Country": "USA",
+                        "_Type": "Billing"
+                    }
+                ],
+                "DeliveryNotes": "Please don't deliver on Saturday.",
+                "Items": {
+                    "Item": [
+                        {
+                            "ProductName": "Computer Keyboard",
+                            "Quantity": "1",
+                            "USPrice": "29.99",
+                            "_PartNumber": "898-AZ"
+                        },
+                        {
+                            "ProductName": "Wireless Mouse",
+                            "Quantity": "1",
+                            "USPrice": "14.99",
+                            "_PartNumber": "898-AM"
+                        }
+                    ]
+                },
+                "_PurchaseOrderNumber": "99504",
+                "_OrderDate": "2023-10-22"
+            },
+            {
+                "ShippingAddress": {
+                    "Name": {
+                        "__prefix": "aw",
+                        "__text": "Chris Preston"
+                    },
+                    "Street": {
+                        "__prefix": "aw",
+                        "__text": "123 Main St."
+                    },
+                    "City": {
+                        "__prefix": "aw",
+                        "__text": "Seattle"
+                    },
+                    "State": {
+                        "__prefix": "aw",
+                        "__text": "WA"
+                    },
+                    "Zip": {
+                        "__prefix": "aw",
+                        "__text": "98113"
+                    },
+                    "Country": {
+                        "__prefix": "aw",
+                        "__text": "USA"
+                    },
+                    "__prefix": "aw"
+                },
+                "BillingAddress": {
+                    "Name": {
+                        "__prefix": "aw",
+                        "__text": "Chris Preston"
+                    },
+                    "Street": {
+                        "__prefix": "aw",
+                        "__text": "123 Main St."
+                    },
+                    "City": {
+                        "__prefix": "aw",
+                        "__text": "Seattle"
+                    },
+                    "State": {
+                        "__prefix": "aw",
+                        "__text": "WA"
+                    },
+                    "Zip": {
+                        "__prefix": "aw",
+                        "__text": "98113"
+                    },
+                    "Country": {
+                        "__prefix": "aw",
+                        "__text": "USA"
+                    },
+                    "__prefix": "aw"
+                },
+                "DeliveryInstructions": {
+                    "__prefix": "aw",
+                    "__text": "Ship only complete order."
+                },
+                "Item": [
+                    {
+                        "ProductID": {
+                            "__prefix": "aw",
+                            "__text": "Litware Networking Card"
+                        },
+                        "Qty": {
+                            "__prefix": "aw",
+                            "__text": "1"
+                        },
+                        "Price": {
+                            "__prefix": "aw",
+                            "__text": "20.99"
+                        },
+                        "_PartNum": "LIT-01",
+                        "__prefix": "aw"
+                    },
+                    {
+                        "ProductID": {
+                            "__prefix": "aw",
+                            "__text": "Litware 17in LCD Monitor"
+                        },
+                        "Qty": {
+                            "__prefix": "aw",
+                            "__text": "1"
+                        },
+                        "Price": {
+                            "__prefix": "aw",
+                            "__text": "199.99"
+                        },
+                        "_PartNum": "LIT-25",
+                        "__prefix": "aw"
+                    }
+                ],
+                "_xmlns:aw": "http://www.adventure-works.com",
+                "_PONumber": "11223",
+                "_Date": "2024-01-15",
+                "__prefix": "aw"
+            }
+        ],
+        "_xmlns": "www.contoso.com"
+    }
+}
